@@ -1,3 +1,5 @@
+This is a word counter that also identifies repeated words and fetches suggestions from an API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
